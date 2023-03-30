@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="jcsp">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jcsp" />
+      <root url="jar://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-core-doc" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/alting" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/altingBarriers" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/alting/ints" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/balls/balls0" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/balls/balls1" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/balls/balls2" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/bounce" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/bucket" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/call" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/commstime" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/crew" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/awt" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/lang" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/plugNplay" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/plugNplay/ints" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/util" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/doc-ex/jcsp/util/ints" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/eratosthenes" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/fireworks" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/flasher" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/hamming" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/infect" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/jcspchat" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/mandelbrot" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/mandelbrot/net" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/matrix" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/missionControl" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/net2/async" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/net2/barriers" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/net2/channels" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/outputGuards" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/philosophers/callChannel" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/philosophers/channel" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/philosophers/deadlock" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/picasso" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/plasma" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/pong" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/raytrace" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/splat" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/wotNoChickens/callChannel" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/wotNoChickens/channel" />
+      <root url="file://$PROJECT_DIR$/../jcsp/jcsp-1.1-rc4/jcsp-demos/wotNoChickens/starve" />
+    </SOURCES>
+  </library>
+</component>

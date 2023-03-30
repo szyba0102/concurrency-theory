@@ -1,0 +1,19 @@
+digraph {
+	"0a" [label=a]
+	"1c" [label=c]
+	"2d" [label=d]
+	"3c" [label=c]
+	"4f" [label=f]
+	"5b" [label=b]
+	"6b" [label=b]
+	"7e" [label=e]
+	"0a" -> "1c"
+	"0a" -> "4f"
+	"1c" -> "3c"
+	"2d" -> "4f"
+	"3c" -> "5b"
+	"3c" -> "7e"
+	"4f" -> "5b"
+	"4f" -> "7e"
+	"5b" -> "6b"
+}

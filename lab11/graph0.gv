@@ -1,0 +1,15 @@
+digraph {
+	"0b" [label=b]
+	"1a" [label=a]
+	"2a" [label=a]
+	"3d" [label=d]
+	"4c" [label=c]
+	"5b" [label=b]
+	"0b" -> "1a"
+	"0b" -> "3d"
+	"1a" -> "2a"
+	"2a" -> "4c"
+	"2a" -> "5b"
+	"3d" -> "4c"
+	"3d" -> "5b"
+}
